@@ -24,6 +24,6 @@ function draw() {
     rect(minX, 110, 100, 100);
 
     fill(200, 100, 0, hrShade);
-    rect(hrX, 165, 100, 100);
+    rect(hrX, 215, 100, 100);
 
 }
